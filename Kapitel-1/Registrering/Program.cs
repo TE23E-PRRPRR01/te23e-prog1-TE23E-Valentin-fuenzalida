@@ -5,7 +5,7 @@ Console.OutputEncoding = System.Text.Encoding.Unicode;
 Console.WriteLine("program för att registrera förnamn och efternamn");
 Console.WriteLine("ange förnamn");
 String förnamn = Console.ReadLine();
-Console.WriteLine("ange efternamn");
+Console.WriteLine("ange efternamn");a   
 String efternamn = Console.ReadLine();
 Console.WriteLine("Hej " + förnamn + " " + efternamn);
 Console.WriteLine($"Hej {förnamn} {efternamn}");
