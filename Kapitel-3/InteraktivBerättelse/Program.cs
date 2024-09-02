@@ -1,12 +1,11 @@
 ﻿// en berättelse
-Console.WriteLine("Hej");
 Console.Clear();
 
 Console.WriteLine("are you stressed? (y/n)");
 string answer = Console.ReadLine();
 
 //continue the conversation
-if (answer = "y")
+if (answer == "y")
 {
     Console.Write("do you want to talk about it? (y/n)");
     answer = Console.ReadLine();
