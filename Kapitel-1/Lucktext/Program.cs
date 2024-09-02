@@ -20,22 +20,22 @@ String butiken = Console.ReadLine();
 
 Console.WriteLine($"Hej {förnamn}, {kompis} äter {favoritglas} som han tycker är otroligt god, i {butiken}");
 
-if (förnamn == )
+if (förnamn == "")
 {
     Console.WriteLine();
 }
 
-if (favoritglas == )
+if (favoritglas == "")
 {
     Console.WriteLine();
 }
 
-if (kompis == )
+if (kompis == "")
 {
     Console.WriteLine();
 }
 
-if (butiken == )
+if (butiken == "")
 {
     Console.WriteLine();
 }
