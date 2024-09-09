@@ -1,0 +1,15 @@
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.AssemblyInfoInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.AssemblyInfo.cs
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.csproj.CoreCompileInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.sourcelink.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.exe
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.deps.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.runtimeconfig.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\obj\Debug\net8.0\refint\InteraktivBerättelse.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.genruntimeconfig.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\InteraktivBerättelse\obj\Debug\net8.0\ref\InteraktivBerättelse.dll

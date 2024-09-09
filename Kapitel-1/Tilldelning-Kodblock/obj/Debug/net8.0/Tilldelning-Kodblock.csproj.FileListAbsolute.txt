@@ -1,0 +1,15 @@
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\bin\Debug\net8.0\Tilldelning-Kodblock.exe
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\bin\Debug\net8.0\Tilldelning-Kodblock.deps.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\bin\Debug\net8.0\Tilldelning-Kodblock.runtimeconfig.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\bin\Debug\net8.0\Tilldelning-Kodblock.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\bin\Debug\net8.0\Tilldelning-Kodblock.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\obj\Debug\net8.0\Tilldelning-Kodblock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\obj\Debug\net8.0\Tilldelning-Kodblock.AssemblyInfoInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\obj\Debug\net8.0\Tilldelning-Kodblock.AssemblyInfo.cs
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\obj\Debug\net8.0\Tilldelning-Kodblock.csproj.CoreCompileInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\obj\Debug\net8.0\Tilldelning-Kodblock.sourcelink.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\obj\Debug\net8.0\Tilldelning-Kodblock.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\obj\Debug\net8.0\refint\Tilldelning-Kodblock.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\obj\Debug\net8.0\Tilldelning-Kodblock.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\obj\Debug\net8.0\Tilldelning-Kodblock.genruntimeconfig.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-1\Tilldelning-Kodblock\obj\Debug\net8.0\ref\Tilldelning-Kodblock.dll
