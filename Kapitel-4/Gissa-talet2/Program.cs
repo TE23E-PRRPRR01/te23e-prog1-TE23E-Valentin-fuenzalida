@@ -47,7 +47,7 @@ Console.WriteLine("Ange minivärde: ");
 int min = int.Parse(Console.ReadLine());
 
 //Ange maxvärde
-Console.WriteLine("Ange maxvärde");
+Console.WriteLine("Ange maxvärde: ");
 int max = int.Parse(Console.ReadLine());
 
 //ger oss ett slumptalet mellan min och max värderna som advändarna sa

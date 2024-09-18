@@ -1,0 +1,15 @@
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\bin\Debug\net8.0\Quiz.exe
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\bin\Debug\net8.0\Quiz.deps.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\bin\Debug\net8.0\Quiz.runtimeconfig.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\bin\Debug\net8.0\Quiz.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\bin\Debug\net8.0\Quiz.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\obj\Debug\net8.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfo.cs
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\obj\Debug\net8.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\obj\Debug\net8.0\Quiz.sourcelink.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\obj\Debug\net8.0\Quiz.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\obj\Debug\net8.0\refint\Quiz.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\obj\Debug\net8.0\Quiz.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\obj\Debug\net8.0\Quiz.genruntimeconfig.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Quiz\obj\Debug\net8.0\ref\Quiz.dll
