@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lucktext")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f82781b69d49fa7d06b77ae2f3db0a3b61ad6194")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b1c59dc7a9b2dc16cecd38bb1a02374909ec285")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lucktext")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lucktext")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
