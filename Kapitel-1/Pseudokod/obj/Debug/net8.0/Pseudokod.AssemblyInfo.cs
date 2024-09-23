@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pseudokod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b1c59dc7a9b2dc16cecd38bb1a02374909ec285")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9372ee735140a5fc635fa8841e9a87e4fd60398f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pseudokod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pseudokod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

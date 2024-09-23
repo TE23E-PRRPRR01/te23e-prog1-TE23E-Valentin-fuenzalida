@@ -1,24 +1,27 @@
 ﻿Console.Clear();
 Console.WriteLine("program för massa olika pseudokod");
 
-Console.WriteLine("ange ett tal mellan 1-5");
-int listarad1 = int.Parse(Console.ReadLine());
+Console.WriteLine("ange första talet");
+int första = int.Parse(Console.ReadLine());
 
-Console.WriteLine("ange ett tal mellan 6-9");
-int listarad2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Ange hur många gånger den ska adderas");
+int antalgånger = int.Parse(Console.ReadLine());
 
-Console.WriteLine("ange ett tal mellan 10-15");
-int listarad3 = int.Parse(Console.ReadLine());
 
-Console.WriteLine("ange ett tal mellan 16-19");
-int listarad4 = int.Parse(Console.ReadLine());
+int summa = 0;
 
-Console.WriteLine("ange ett tal mellan 20-25");
-int listarad5 = int.Parse(Console.ReadLine());
+for (int i = första; i < antalgånger; i++)
+{
+    summa = summa + i;
+    Console.WriteLine(summa);
+}
 
-Console.WriteLine(@$"
-{listarad1}
-{listarad2}
-{listarad3}
-{listarad4}
-{listarad5}");
+
+int[] heltal = { 9, 9, 287, 357, 2, 3, 3, 4, 6, 7, 7, };
+
+Console.WriteLine("ange första talet");
+int förstatalet = int.Parse(Console.ReadLine());
+
+
+
+
