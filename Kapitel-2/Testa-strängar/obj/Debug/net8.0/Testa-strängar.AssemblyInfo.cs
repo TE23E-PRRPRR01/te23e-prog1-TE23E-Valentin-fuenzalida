@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Testa-strängar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60d8e876b8a5a2388d18e0da4e45c7ac84936943")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df7fa358b71bb139f67fc4e85a7979747b7f7082")]
 [assembly: System.Reflection.AssemblyProductAttribute("Testa-strängar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Testa-strängar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
