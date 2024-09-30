@@ -1,0 +1,15 @@
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\obj\Debug\net8.0\Lista-med-emojis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\obj\Debug\net8.0\Lista-med-emojis.AssemblyInfoInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\obj\Debug\net8.0\Lista-med-emojis.AssemblyInfo.cs
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\obj\Debug\net8.0\Lista-med-emojis.csproj.CoreCompileInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\obj\Debug\net8.0\Lista-med-emojis.sourcelink.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\bin\Debug\net8.0\Lista-med-emojis.exe
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\bin\Debug\net8.0\Lista-med-emojis.deps.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\bin\Debug\net8.0\Lista-med-emojis.runtimeconfig.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\bin\Debug\net8.0\Lista-med-emojis.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\bin\Debug\net8.0\Lista-med-emojis.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\obj\Debug\net8.0\Lista-med-emojis.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\obj\Debug\net8.0\refint\Lista-med-emojis.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\obj\Debug\net8.0\Lista-med-emojis.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\obj\Debug\net8.0\Lista-med-emojis.genruntimeconfig.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Lista-med-emojis\obj\Debug\net8.0\ref\Lista-med-emojis.dll
