@@ -8,6 +8,11 @@ Console.WriteLine("Spelet BlackJack");
 // Knekt, Dam, Kung = 10
 // Ess = 1 (eller 11)
 // @todo slump  måste efterlinka riktig kortlek, dvs 4x1, 4x2 ... 4xkung
+
+List<string> kortlek = ["Ess", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Knekt", "Dam", "Kung"];
+
+int antalkort = 13;
+
 while (true)
 {
 
@@ -17,15 +22,15 @@ while (true)
     int kort = 0;
 
     // Dela ut 2 kort till spelare
-    kort = Random.Shared.Next(1, 11); // @todo Knekt, Dam och Kung?
+    int index = Random.Shared.Next(0, kortlek.Count);
     summaSpelare += kort;
-    kort = Random.Shared.Next(1, 11); // @todo Knekt, Dam och Kung?
-    summaSpelare += kort;
+    Console.WriteLine($"Du drog kortet {kort}");
+    antalkort --;
     // Dela ut 2 kort till datorn
-    kort = Random.Shared.Next(1, 11); // @todo Knekt, Dam och Kung?
+    index = Random.Shared.Next(0, kortlek.Count);
     summaDatorn += kort;
-    kort = Random.Shared.Next(1, 11); // @todo Knekt, Dam och Kung?
-    summaDatorn += kort;
+    Console.WriteLine($"Datorn drog kortet {kort}");
+    antalkort --;
 
 
     // Flera gånger (loop)
@@ -43,7 +48,7 @@ while (true)
             // Vill datorn ta ett extra kort <= 17
             while (summaDatorn < 17)
             {
-                kort = Random.Shared.Next(1, 11); // @todo Knekt, Dam och Kung?
+                index = Random.Shared.Next(0, kortlek.Count); // @todo Knekt, Dam och Kung?
                 summaDatorn += kort; 
             }
 
@@ -64,13 +69,13 @@ while (true)
         }
 
         // Ta ett extra kort
-        kort = Random.Shared.Next(1, 11); // @todo Knekt, Dam och Kung?
+        index = Random.Shared.Next(0, kortlek.Count); // @todo Knekt, Dam och Kung?
         summaSpelare += kort;
         // Skriv ut kortet
         Console.WriteLine($"Du fick {kort}");
 
         // Datorn får ett nytt kort
-        kort = Random.Shared.Next(1, 11); // @todo Knekt, Dam och Kung?
+        index = Random.Shared.Next(0, kortlek.Count); // @todo Knekt, Dam och Kung?
         summaDatorn += kort;
         // Skriv ut kortet
         Console.WriteLine($"Datorn fick {kort}");

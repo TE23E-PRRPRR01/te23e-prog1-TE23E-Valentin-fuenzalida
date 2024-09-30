@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lista-med-emojis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09dc6b43786bdb7c43951edf92d4f642cc6a9473")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7171670edc56332b4b0dcaa65e5be3fd2025b0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lista-med-emojis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lista-med-emojis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
