@@ -25,4 +25,8 @@ List<int> årtal = [1990, 2000, 2010];
 // här skriver vi ut innehållet i listan
 Console.WriteLine($"Tre årtal: {årtal[0]}, {årtal[1]} och {årtal[2]}");
 
-
+// här loopar vi igenom vår 'landet' lista
+foreach (var landet in länder)
+{
+    Console.WriteLine("landet"); // skriv ut namnet på varje land
+}

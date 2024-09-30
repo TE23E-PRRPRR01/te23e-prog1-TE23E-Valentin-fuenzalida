@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Samlingar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edd0b079fba0f57bebce3f7f1579fbf6c1681431")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1014330f4adaff3e20d46ec4e6d0dcfc884da7b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Samlingar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Samlingar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
