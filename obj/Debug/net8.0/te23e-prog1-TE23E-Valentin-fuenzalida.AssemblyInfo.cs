@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("te23e-prog1-TE23E-Valentin-fuenzalida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eaea8f1b486cd30f42f8d6f8e9388117ff18617")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af589e39bd75aa62a35d1addc75c531dca346074")]
 [assembly: System.Reflection.AssemblyProductAttribute("te23e-prog1-TE23E-Valentin-fuenzalida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("te23e-prog1-TE23E-Valentin-fuenzalida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,7 +10,7 @@ Console.WriteLine("Spelet BlackJack");
 // @todo slump  måste efterlinka riktig kortlek, dvs 4x1, 4x2 ... 4xkung
 
 List<string> kortlek = ["Ess", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Knekt", "Dam", "Kung"];
-
+List<int> värde = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13];
 int antalkort = 13;
 
 while (true)
@@ -19,18 +19,20 @@ while (true)
     // Variabler
     int summaSpelare = 0;
     int summaDatorn = 0;
-    int kort = 0;
+    string kort;
 
     // Dela ut 2 kort till spelare
     int index = Random.Shared.Next(0, kortlek.Count);
-    summaSpelare += kort;
+    kort = kortlek[index];
+    summaSpelare += värde[index];
     Console.WriteLine($"Du drog kortet {kort}");
-    antalkort --;
+    antalkort--;
     // Dela ut 2 kort till datorn
     index = Random.Shared.Next(0, kortlek.Count);
-    summaDatorn += kort;
+    kort = kortlek[index];
+    summaDatorn += värde[index];
     Console.WriteLine($"Datorn drog kortet {kort}");
-    antalkort --;
+    antalkort--;
 
 
     // Flera gånger (loop)
@@ -41,15 +43,18 @@ while (true)
         Console.WriteLine($"Datorn har {summaDatorn} poäng");
 
         // Stanna eller dra ett kort?
-        Console.Write("vill du ha ett nytt kort? (j/n)");
+        Console.WriteLine("vill du ha ett nytt kort? (j/n)");
         string svar = Console.ReadLine().ToLower();
         if (svar == "n")
         {
             // Vill datorn ta ett extra kort <= 17
             while (summaDatorn < 17)
             {
-                index = Random.Shared.Next(0, kortlek.Count); // @todo Knekt, Dam och Kung?
-                summaDatorn += kort; 
+                index = Random.Shared.Next(0, kortlek.Count);
+                kort = kortlek[index];
+                summaDatorn += värde[index];
+                Console.WriteLine($"datorn drog kortet {kort}");
+                antalkort--;
             }
 
 
@@ -60,8 +65,8 @@ while (true)
                 Console.WriteLine("Du har vunnit");
             }
             else
-      
-      
+
+
             {
                 Console.WriteLine("Datorn har vunnit");
             }
@@ -69,16 +74,18 @@ while (true)
         }
 
         // Ta ett extra kort
-        index = Random.Shared.Next(0, kortlek.Count); // @todo Knekt, Dam och Kung?
-        summaSpelare += kort;
-        // Skriv ut kortet
-        Console.WriteLine($"Du fick {kort}");
+        index = Random.Shared.Next(0, kortlek.Count);
+        kort = kortlek[index];
+        summaSpelare += värde[index];
+        Console.WriteLine($"Du drog kortet {kort}");
+        antalkort--;
 
         // Datorn får ett nytt kort
-        index = Random.Shared.Next(0, kortlek.Count); // @todo Knekt, Dam och Kung?
-        summaDatorn += kort;
-        // Skriv ut kortet
-        Console.WriteLine($"Datorn fick {kort}");
+        index = Random.Shared.Next(0, kortlek.Count);
+        kort = kortlek[index];
+        summaDatorn += värde[index];
+        Console.WriteLine($"Datorn drog kortet {kort}");
+        antalkort--;
 
         // om datrorn får 21 har datorn vunnit
         if (summaDatorn == 21)
