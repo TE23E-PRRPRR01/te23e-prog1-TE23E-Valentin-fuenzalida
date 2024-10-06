@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stränghantering1-6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e35065615d001855d0e05e44dc9bcbdf93200950")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af589e39bd75aa62a35d1addc75c531dca346074")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stränghantering1-6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stränghantering1-6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

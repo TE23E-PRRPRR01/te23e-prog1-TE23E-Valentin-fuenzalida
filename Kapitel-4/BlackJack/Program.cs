@@ -13,6 +13,7 @@ List<string> kortlek = ["Ess", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Kn
 List<int> värde = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13];
 int antalkort = 13;
 
+
 while (true)
 {
 

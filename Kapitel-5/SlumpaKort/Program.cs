@@ -20,7 +20,7 @@ while (antalkort > 0)
     // Ta bort kortet från kortleken
     kortlek.RemoveAt(index);
 
-    // Avsluta om det finns fler kort i kortleken
+    // Avsluta om det inte finns fler kort i kortleken
     if (kortlek.Count == 0)
     {
         Console.WriteLine("Det finns inga fler kort i kortleken.");
