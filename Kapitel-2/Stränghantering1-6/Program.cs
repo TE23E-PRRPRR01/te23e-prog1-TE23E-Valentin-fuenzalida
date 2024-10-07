@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿using System.Text;
+
+Console.Clear();
 
 Console.WriteLine("Första stränghanteringen");
 
@@ -25,3 +27,11 @@ foreach (string ord in d_ordlåda)
     Console.WriteLine(ord);
 }
 
+// skapar en mening variabel
+String mening1 = "Nog finns det mål och mening i vår färd - men det är vägen, som är mödan värd.";
+
+// sparar variabeln som har byt ut alla mellanslag i meningen till #
+mening1 = mening1.Replace(' ', '#');
+
+// skriver ut den nya meningen
+Console.WriteLine(mening1);
