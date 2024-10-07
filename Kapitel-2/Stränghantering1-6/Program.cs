@@ -27,6 +27,8 @@ foreach (string ord in d_ordlåda)
     Console.WriteLine(ord);
 }
 
+
+
 // skapar en mening variabel
 String mening1 = "Nog finns det mål och mening i vår färd - men det är vägen, som är mödan värd.";
 
@@ -35,3 +37,11 @@ mening1 = mening1.Replace(' ', '#');
 
 // skriver ut den nya meningen
 Console.WriteLine(mening1);
+
+
+// skapar en ny varibel
+String mening2 = "Det bästa målet är en nattlång rast, där elden tänds och brödet bryts i hast.";
+String[] allaord = mening2.Split(' '); // delar up meningen i specifika ord
+String sistaordet = allaord[allaord.Length - 1].Trim(); // extrehearar sista ordet
+
+Console.WriteLine(sistaordet);
