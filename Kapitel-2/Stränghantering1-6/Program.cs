@@ -45,3 +45,5 @@ String[] allaord = mening2.Split(' '); // delar up meningen i specifika ord
 String sistaordet = allaord[allaord.Length - 1].Trim(); // extrehearar sista ordet
 
 Console.WriteLine(sistaordet);
+
+
