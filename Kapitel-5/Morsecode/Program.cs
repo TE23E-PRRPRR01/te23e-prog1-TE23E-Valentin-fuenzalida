@@ -44,12 +44,12 @@ foreach (char bokstav in meddelande)
         {
             if (signal == '.') // '.'
             {
-                // 1000Hz, 200ms
+                // 1000Hz, 100ms
                 Console.Beep(1000, 100);
             }
             else // '-'
             {
-                // 1000Hz, 600ms
+                // 1000Hz, 300ms
                 Console.Beep(1000, 300);
             }
         }
