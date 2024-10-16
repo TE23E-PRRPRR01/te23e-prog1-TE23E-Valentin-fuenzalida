@@ -36,7 +36,7 @@ Ange ditt val
     else if (val == "2")
     {
         foreach (var allanamn in namnregister)
-        {
+        {   
             Console.Write($"{allanamn}, ");
         }
     }
