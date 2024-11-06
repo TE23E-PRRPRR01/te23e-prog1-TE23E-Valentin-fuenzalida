@@ -49,3 +49,9 @@ Console.WriteLine(sistaordet);
 
 String mening3 = "På ställen, där man sover blott en gång, blir sömnen trygg och drömmen full av sång.";
 
+int antalE = 0;
+
+for (int i = 0; i < 4; i++)
+{
+    
+}
