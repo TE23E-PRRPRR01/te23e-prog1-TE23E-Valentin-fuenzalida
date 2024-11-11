@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Slumpa ett tal och spara en lista/1.0.0": {
+        "runtime": {
+          "Slumpa ett tal och spara en lista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slumpa ett tal och spara en lista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

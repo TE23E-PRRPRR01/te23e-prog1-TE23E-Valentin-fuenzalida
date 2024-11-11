@@ -1,0 +1,15 @@
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\bin\Debug\net8.0\Slumpa ett tal och spara en lista.exe
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\bin\Debug\net8.0\Slumpa ett tal och spara en lista.deps.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\bin\Debug\net8.0\Slumpa ett tal och spara en lista.runtimeconfig.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\bin\Debug\net8.0\Slumpa ett tal och spara en lista.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\bin\Debug\net8.0\Slumpa ett tal och spara en lista.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\obj\Debug\net8.0\Slumpa ett tal och spara en lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\obj\Debug\net8.0\Slumpa ett tal och spara en lista.AssemblyInfoInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\obj\Debug\net8.0\Slumpa ett tal och spara en lista.AssemblyInfo.cs
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\obj\Debug\net8.0\Slumpa ett tal och spara en lista.csproj.CoreCompileInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\obj\Debug\net8.0\Slumpa ett tal och spara en lista.sourcelink.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\obj\Debug\net8.0\Slumpa ett tal och spara en lista.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\obj\Debug\net8.0\refint\Slumpa ett tal och spara en lista.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\obj\Debug\net8.0\Slumpa ett tal och spara en lista.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\obj\Debug\net8.0\Slumpa ett tal och spara en lista.genruntimeconfig.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Slumpa ett tal och spara en lista\obj\Debug\net8.0\ref\Slumpa ett tal och spara en lista.dll
