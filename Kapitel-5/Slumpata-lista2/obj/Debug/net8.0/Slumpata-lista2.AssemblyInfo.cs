@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slumpata-lista2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2ff9d7b0725380950b8d184c5feec29074b16bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+296c2c19f39dfd1904d352237ade54d1fb92ecb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slumpata-lista2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slumpata-lista2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

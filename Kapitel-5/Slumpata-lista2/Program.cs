@@ -1,4 +1,11 @@
 ﻿// slumpa lista med slumpade tal
+
+
+/* ************************************************************
+**                          Main                             **
+*************************************************************** */
+
+
 // validerar användarens inmatning
 
 Console.Clear();
@@ -8,17 +15,50 @@ Console.Clear();
 
 List<int> listaSlumptal = [];
 
-// fråga använderaren hur många slumptal som ska skapas
-Console.WriteLine("Ange antal slumptal ");
 
-bool lyckades = int.TryParse(Console.ReadLine(), out int antal);
 
-if (lyckades)
+// fråga igen tills användaren matar in ett gilltigt svar
+int antal = LäsInHeltal();
+Console.WriteLine($"du vill ha {antal} slumptal");
+
+int min = LäsInHeltal();
+Console.WriteLine($"lägsta slumptal blir {min}:");
+
+int max = LäsInHeltal();
+Console.WriteLine($"Högsta slumptal blir {max}:");
+
+// Slumpar så många tal som användaren ber om
+for (int i = 0; i < antal; i++)
 {
-    Console.WriteLine($"du vill ha {antal} slumptal");
+    // Slumpar ett tal mellan 1 och 10
+    int slumptal = Random.Shared.Next(min, max + 1);
 
+    // Skriver ut det slumpade talet plus att skriva vilken ordning de slumpade talen är i
+    Console.WriteLine("Slumpat tal: " + (i + 1) + ": " + slumptal);
 }
-else
+
+/* ************************************************************
+**                         Mina egna metoder
+*************************************************************** */
+
+static int LäsInHeltal()
 {
-    Console.WriteLine("Du måste skriva ett heltal");
+    int heltal = 0;
+    while (true)
+    {
+        // fråga använderaren hur många slumptal som ska skapas
+        Console.WriteLine("Ange heltal: ");
+        bool lyckades = int.TryParse(Console.ReadLine(), out  heltal);
+
+        if (lyckades)
+        {
+            break;
+        }
+        else
+        {
+            Console.WriteLine("Du måste skriva ett heltal");
+        }
+
+    }
+    return heltal;
 }

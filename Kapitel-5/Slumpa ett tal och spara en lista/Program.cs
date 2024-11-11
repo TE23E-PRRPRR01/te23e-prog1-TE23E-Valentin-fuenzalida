@@ -8,12 +8,18 @@ while (true)
     Console.WriteLine("Hur många tal vill du slumpa");
     int antal = int.Parse(Console.ReadLine());
 
+    Console.WriteLine("--------------------------------");
+
     // be använderen ange min och max 
     Console.WriteLine("Ange ett minivärde för intervallet");
     int min = int.Parse(Console.ReadLine());
 
+    Console.WriteLine("--------------------------------");
+
     Console.WriteLine("Ange ett maxvärde för intervallet");
     int max = int.Parse(Console.ReadLine());
+
+    Console.WriteLine("--------------------------------");
 
 
     // skapa en lista för att lagra tal
