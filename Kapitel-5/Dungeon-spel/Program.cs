@@ -1,17 +1,9 @@
-﻿/* ************************************************************
-**                          Main                             **
-*************************************************************** */
-
-
-Console.Clear();
+﻿Console.Clear();
 Console.WriteLine("Välkomen till Dungeon-äventyret! Du är i ett mörkt rum.");
 
 // Programvariabler 
 string rum = "hallen"; // Starta i "hallen"
 int liv = 3;  // Spelaren börjar med 3 liv
-
-Console.WriteLine("Det finns 2 rum");
-Console.WriteLine($"Du börjar med {liv} liv");
 
 List<string> inventarie = []; // Lista för att lagra föremål
 
@@ -58,6 +50,35 @@ while (true)
         }
     }
     else if (rum == "rum 1")
+    {
+    // Slumpa en händelse när spelaren går till ett nytt rum
+    int händelse = Random.Shared.Next(1, 5);
+
+    if (händelse == 1)
+    {
+        Console.WriteLine("Du hittar ett svärd på marken!");
+        if (!inventarie.Contains("Svärd"))
+    {
+        inventarie.Add("Svärd");
+        Console.WriteLine("Du plockar upp svärdet.");
+    }
+    }
+        else if (händelse == 2)
+    {
+        Console.WriteLine("En fiende dyker upp!");
+        // Låt spelaren slåss eller fly
+    }
+    else if (händelse == 3) // Exempel på fälla
+    {
+        Console.WriteLine("Du ramldade i en fälla");
+        liv--;
+        Console.WriteLine($"Du förlorade ett liv! Liv kvar: {liv}");
+    }
+    }
+    else
+    {
+        Console.WriteLine("Rummet är tomt.");
+    }
 
         Console.WriteLine("Du hittar en magisk dryck! vill du plocka up den? (j/n)");
         string svar = Console.ReadLine(). ToLower();
@@ -89,4 +110,5 @@ while (true)
             rum = "rum 1";
             Console.WriteLine("Du går tillbaka till rum 1...");
         }
+    }
 }
