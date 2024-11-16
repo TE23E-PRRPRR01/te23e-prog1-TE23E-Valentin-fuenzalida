@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Engerflowchart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87b6869d28f924ff3db34e098baf3048de7854fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd6c70406888928e2f5ba829f1ee88ba8b17f169")]
 [assembly: System.Reflection.AssemblyProductAttribute("Engerflowchart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Engerflowchart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
