@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trparse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb7da572a65ec2c7db115b7863aaf7348405f975")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85b83ce6e5f2118d27bdbdf2906c597d5a954bd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trparse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trparse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
