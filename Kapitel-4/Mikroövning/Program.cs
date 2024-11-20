@@ -76,20 +76,76 @@
 
 
 
+// Console.Clear();
 
 
 
 
+// Console.WriteLine("Ange ett startvärde: ");
+// int startvärde = int.Parse(Console.ReadLine());
 
+// Console.WriteLine("Ange ett slutvärde: ");
+// int slutvärde = int.Parse(Console.ReadLine());
+
+// Console.Clear();
+
+// int summan = 0;
+
+// for (int i = startvärde; i < slutvärde; i++)
+// {
+//     summan = summan + (i);
+// }
+
+// Console.WriteLine($"Summan av siffrorna {startvärde} till {slutvärde} är: {summan}");
+
+// Console.WriteLine("--------------------------------------------");
+
+// Console.WriteLine("Jämna siffror: ");
+// for (int i = 0; i < 20; i++)
+// {
+//     if (i % 2 == 0) Console.WriteLine(i + ",");
+// }
+
+// Console.WriteLine("--------------------------------------------");
+
+// Console.WriteLine("Udda tal: ");
+// for (int i = 0; i < 20; i++)
+// {
+//     if (i % 2 != 0) Console.WriteLine(i + ",");
+// }
+
+// Console.WriteLine("--------------------------------------------");
+
+// Console.WriteLine("Ange ett tal: ");
+// int multiplikationstabellen = int.Parse(Console.ReadLine());
+
+// for (int i = 1; i < 11; i++)
+// {
+//     Console.WriteLine($"{multiplikationstabellen} x {i} = {multiplikationstabellen * i}");
+// }
+
+
+// Console.WriteLine("--------------------------------------------");
 
 Console.Clear();
 
-int summan = 0;
+Console.Clear();
+Console.Write("Höjd: ");
+int höjd = int.Parse(Console.ReadLine());
 
-for (int i = 1; i < 11; i++)
+for (int i = 1; i <= höjd; i++)
 {
-    summan = summan + (i);
+    for (int j = 1; j <= i; j++)
+    {
+        Console.Write("*");
+    }
+
+    Console.WriteLine();
+
+    for (int j = 2; j <= i; j++)
+    {
+        Console.Write("*");
+    }
+
+    Console.WriteLine();
 }
-
-Console.WriteLine($"Summan av siffrorna 1 till 10 är: {summan}");
-
