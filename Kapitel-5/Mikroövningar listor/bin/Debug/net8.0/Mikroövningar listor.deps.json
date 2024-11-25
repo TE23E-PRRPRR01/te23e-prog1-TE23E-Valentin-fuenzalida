@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mikroövningar listor/1.0.0": {
+        "runtime": {
+          "Mikroövningar listor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mikroövningar listor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

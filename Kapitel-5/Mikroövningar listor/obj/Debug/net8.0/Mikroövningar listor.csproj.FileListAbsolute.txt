@@ -1,0 +1,15 @@
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\bin\Debug\net8.0\Mikroövningar listor.exe
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\bin\Debug\net8.0\Mikroövningar listor.deps.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\bin\Debug\net8.0\Mikroövningar listor.runtimeconfig.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\bin\Debug\net8.0\Mikroövningar listor.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\bin\Debug\net8.0\Mikroövningar listor.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\obj\Debug\net8.0\Mikroövningar listor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\obj\Debug\net8.0\Mikroövningar listor.AssemblyInfoInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\obj\Debug\net8.0\Mikroövningar listor.AssemblyInfo.cs
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\obj\Debug\net8.0\Mikroövningar listor.csproj.CoreCompileInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\obj\Debug\net8.0\Mikroövningar listor.sourcelink.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\obj\Debug\net8.0\Mikroövningar listor.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\obj\Debug\net8.0\refint\Mikroövningar listor.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\obj\Debug\net8.0\Mikroövningar listor.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\obj\Debug\net8.0\Mikroövningar listor.genruntimeconfig.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-5\Mikroövningar listor\obj\Debug\net8.0\ref\Mikroövningar listor.dll
