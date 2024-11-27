@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mikroövningar listor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dc0eea1ceb1edbd50d34fbaf2cfdda0e80c8bdb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c4f8a507fcf2cfa6325bb1c351192bdc76aff4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mikroövningar listor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mikroövningar listor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
