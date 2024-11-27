@@ -1,0 +1,15 @@
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\bin\Debug\net8.0\3.11.exe
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\bin\Debug\net8.0\3.11.deps.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\bin\Debug\net8.0\3.11.runtimeconfig.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\bin\Debug\net8.0\3.11.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\bin\Debug\net8.0\3.11.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\obj\Debug\net8.0\3.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\obj\Debug\net8.0\3.11.AssemblyInfoInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\obj\Debug\net8.0\3.11.AssemblyInfo.cs
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\obj\Debug\net8.0\3.11.csproj.CoreCompileInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\obj\Debug\net8.0\3.11.sourcelink.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\obj\Debug\net8.0\3.11.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\obj\Debug\net8.0\refint\3.11.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\obj\Debug\net8.0\3.11.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\obj\Debug\net8.0\3.11.genruntimeconfig.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-3\3.11\obj\Debug\net8.0\ref\3.11.dll
