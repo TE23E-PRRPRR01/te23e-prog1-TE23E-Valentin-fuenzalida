@@ -1,0 +1,15 @@
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\bin\Debug\net8.0\Uppgift 4.18.exe
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\bin\Debug\net8.0\Uppgift 4.18.deps.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\bin\Debug\net8.0\Uppgift 4.18.runtimeconfig.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\bin\Debug\net8.0\Uppgift 4.18.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\bin\Debug\net8.0\Uppgift 4.18.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\obj\Debug\net8.0\Uppgift 4.18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\obj\Debug\net8.0\Uppgift 4.18.AssemblyInfoInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\obj\Debug\net8.0\Uppgift 4.18.AssemblyInfo.cs
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\obj\Debug\net8.0\Uppgift 4.18.csproj.CoreCompileInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\obj\Debug\net8.0\Uppgift 4.18.sourcelink.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\obj\Debug\net8.0\Uppgift 4.18.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\obj\Debug\net8.0\refint\Uppgift 4.18.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\obj\Debug\net8.0\Uppgift 4.18.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\obj\Debug\net8.0\Uppgift 4.18.genruntimeconfig.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-4\Uppgift 4.18\obj\Debug\net8.0\ref\Uppgift 4.18.dll
