@@ -1,0 +1,15 @@
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.AssemblyInfoInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.AssemblyInfo.cs
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.csproj.CoreCompileInputs.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.sourcelink.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\bin\Debug\net8.0\EnMassaMetoder.exe
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\bin\Debug\net8.0\EnMassaMetoder.deps.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\bin\Debug\net8.0\EnMassaMetoder.runtimeconfig.json
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\bin\Debug\net8.0\EnMassaMetoder.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\bin\Debug\net8.0\EnMassaMetoder.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\refint\EnMassaMetoder.dll
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.pdb
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.genruntimeconfig.cache
+C:\Users\valentin.fuenzalida\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Valentin-fuenzalida\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\ref\EnMassaMetoder.dll
