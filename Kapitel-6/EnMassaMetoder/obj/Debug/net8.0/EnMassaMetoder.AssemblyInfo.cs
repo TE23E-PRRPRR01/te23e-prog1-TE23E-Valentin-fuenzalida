@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnMassaMetoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0380f97e212927318ee4bb217b3c7c0b844aeeea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+775420e7b960851c1229ea5f9bd87e232524a2ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnMassaMetoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnMassaMetoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

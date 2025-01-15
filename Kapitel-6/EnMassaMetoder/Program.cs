@@ -197,4 +197,27 @@ Console.WriteLine();
 
 Console.WriteLine("Uppgift 8");
 
+Console.WriteLine("Skriv in ett tal");
+int tal1 = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Skriv in ett tal");
+int tal2 = int.Parse(Console.ReadLine());
+
+static void Inbetween(int tal1, int tal2)
+{
+    for (int i = (tal1+1); i < tal2; i++)
+    {
+        Console.WriteLine(i);
+    }
+}
+
+Console.WriteLine();
+
+Inbetween(tal1, tal2);
+
+Console.WriteLine();
+
+
+Console.WriteLine("Uppgift 9");
+
 
